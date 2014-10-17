@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmq:home|Door43 (mmq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmq|d43-mmq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmq/archive/master.zip|d43-mmq.zip]]
+
+**Recent Changes**
+{{changes>ns = mmq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmq|Ethnologue data]]
+
